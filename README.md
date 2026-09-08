@@ -49,7 +49,7 @@ I'm a Machine Learning & Autonomous Driving engineer based in Berlin. I am quite
 
 ![Pipeline Demo](https://github.com/AryamanMMahajan/End-to-End-Trajectory-Prediction-System/main/assets/demo.gif)
 
-[→ View Repository]([https://github.com/AryamanMMahajan/YOUR-REPO-NAME](https://github.com/AryamanMMahajan/End-to-End-Trajectory-Prediction-System))
+[→ View Repository](https://github.com/AryamanMMahajan/End-to-End-Trajectory-Prediction-System)
 
 ---
 
