@@ -47,9 +47,9 @@ I'm a Machine Learning & Autonomous Driving engineer based in Berlin. I am quite
 ### End-to-End 3D Behavior Prediction Pipeline
 > CenterPoint 3D Detection → Kalman Filter Tracker (AMOTA 0.929) → GATv2 Trajectory Prediction · nuScenes · EU AI4CCAM
 
-![Pipeline Demo](https://github.com/AryamanMMahajan/YOUR-REPO-NAME/raw/main/assets/demo.gif)
+![Pipeline Demo](https://github.com/AryamanMMahajan/End-to-End-Trajectory-Prediction-System/main/assets/demo.gif)
 
-[→ View Repository](https://github.com/AryamanMMahajan/YOUR-REPO-NAME)
+[→ View Repository]([https://github.com/AryamanMMahajan/YOUR-REPO-NAME](https://github.com/AryamanMMahajan/End-to-End-Trajectory-Prediction-System))
 
 ---
 
