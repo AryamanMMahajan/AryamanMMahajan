@@ -36,3 +36,22 @@ I'm a Machine Learning & Autonomous Driving engineer based in Berlin. I am quite
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
+
+## Projects
+
+### End-to-End 3D Behavior Prediction Pipeline
+> CenterPoint 3D Detection → Kalman Filter Tracker (AMOTA 0.929) → GATv2 Trajectory Prediction · nuScenes · EU AI4CCAM
+
+![Pipeline Demo](https://github.com/AryamanMMahajan/YOUR-REPO-NAME/raw/main/assets/demo.gif)
+
+[→ View Repository](https://github.com/AryamanMMahajan/YOUR-REPO-NAME)
+
+---
+
+### KITTI LiDAR-Camera Fusion & 3D Multi-Object Tracking
+> LiDAR + Camera · Kalman Filter · Hungarian Algorithm · Rerun Visualization
+
+![KITTI Demo](https://github.com/AryamanMMahajan/YOUR-REPO-NAME/raw/main/assets/kitti_demo.gif)
+
+[→ View Repository](https://github.com/AryamanMMahajan/YOUR-REPO-NAME)
+
