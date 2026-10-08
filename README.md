@@ -53,10 +53,9 @@ I'm a Machine Learning & Robotics engineer based in Berlin. I am quite passionat
 
 ---
 
-### KITTI LiDAR-Camera Fusion & 3D Multi-Object Tracking
-> LiDAR + Camera · Kalman Filter · Hungarian Algorithm · Rerun Visualization
+### Ultimate SLAM 
 
-![KITTI Demo](https://github.com/AryamanMMahajan/YOUR-REPO-NAME/raw/main/assets/kitti_demo.gif)
+![SLAM Demo](assets/Screencastfrom2026-10-0813-32-05-ezgif.com-video-to-gif-converter.gif)
 
-[→ View Repository](https://github.com/AryamanMMahajan/YOUR-REPO-NAME)
+[→ View Repository](https://github.com/AryamanMMahajan/Ultimate_SLAM)
 
