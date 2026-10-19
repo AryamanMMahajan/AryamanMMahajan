@@ -55,6 +55,7 @@ I'm a Machine Learning & Robotics engineer based in Berlin. I am quite passionat
 
 ### Action Chunking & Real-Time Chunking for a Flow-Matching VLA
 > π0 (3B-param VLA) on LIBERO · execution-horizon sweep (25 actions/chunk → 90% success, ~6.5× cheaper) · novel offline RTC boundary-jump metric
+> Same task, same starting scene. Left: `n_action_steps=1` (fails). Right: `n_action_steps=25` (succeeds).
 
 ![VLA Chunking Demo](assets/nas25.gif)
 
