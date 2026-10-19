@@ -54,7 +54,7 @@ I'm a Machine Learning & Robotics engineer based in Berlin. I am quite passionat
 ---
 
 ### Action Chunking & Real-Time Chunking for a Flow-Matching VLA
-> Same task, same starting scene. Left: `n_action_steps=1` (fails). Right: `n_action_steps=25` (succeeds).
+> Same task, same starting scene: `n_action_steps=25` (succeeds).
 
 ![VLA Chunking Demo](assets/nas25.gif)
 
