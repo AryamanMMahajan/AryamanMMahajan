@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a Machine Learning & Robotics engineer based in Berlin. I am quite passionate about this space, particularly perception systems that are not just accurate, but reliably safe. My work sits at the intersection of 3D object detection, multi-object tracking, and trajectory prediction, with a focus on building pipelines that hold up in the real world, not just on benchmarks.
+I'm a Machine Learning & Robotics engineer based in Berlin. I am quite passionate about this space, particularly perception systems that are not just accurate, but reliably safe. My work sits at the intersection of 3D object detection, MOT, SLAM, VLMs, Trajectory prediction, and uncertainties with a focus on building pipelines that hold up in reality.
 
 
 ## About me
@@ -8,7 +8,7 @@ I'm a Machine Learning & Robotics engineer based in Berlin. I am quite passionat
 - Location: Berlin, Germany 🇩🇪
 - Education: M.Sc. in Automation & Robotics
 - Experience: ~2 years across ML, robotics & autonomous driving
-- Expertise: 3D Object Detection · MOT · Trajectory Prediction · GNN · Transformers · Kalman Filters · Uncertainty Quantification · Sensor Fusion
+- Expertise: MOT · Trajectory Prediction · GNN · VLM · Robot Learning · Transformers · Kalman Filters · Uncertainty Quantification · Sensor Fusion
 - Currently Learning: Vision-Language Models (VLMs) · Vision-Language-Action Models (VLAs) · SLAM
 
 ## Skills
